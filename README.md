@@ -2,11 +2,11 @@
 
 ---
 
-# 🌗 Dark Mode Toggle com Animações
+# 🌗 Dark Mode 
 
 Este projeto implementa um **botão interativo para alternar entre o modo claro e escuro**, com **animações suaves**, **design moderno** e **armazenamento da preferência do usuário** usando `localStorage`.
 
-![Prévia do Projeto](demo.gif)
+
 
 ![Prévia do Projeto](https://img.shields.io/badge/status-funcionando-brightgreen?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
@@ -62,15 +62,14 @@ Este projeto implementa um **botão interativo para alternar entre o modo claro 
 │-- index.html      # Estrutura da página
 │-- style.css       # Estilização e animações
 │-- main.js         # Lógica de alternância do tema
-│-- demo.gif        # Demonstração do projeto (adicione aqui)
+│-- demo.gif        # Demonstração do projeto 
 ```
 
 ---
 
-## 🎥 **Demonstração das Animações**
+## 🎥 **Demonstração **
 
-* **fadeInUp**: o container entra suavemente de baixo para cima.
-* **pulse**: o botão tem um brilho pulsante contínuo.
+  ![Prévia do Projeto](demo.gif)
 
 ---
 
